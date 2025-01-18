@@ -1,6 +1,5 @@
 numpy== 2.1.3
 pandas==2.2.3
 Streamlit
-Pickle
 Scikit-lean
 pip==24.2
